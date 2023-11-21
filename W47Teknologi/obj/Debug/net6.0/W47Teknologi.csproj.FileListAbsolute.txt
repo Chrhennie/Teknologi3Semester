@@ -1,0 +1,15 @@
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\bin\Debug\net6.0\W47Teknologi.exe
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\bin\Debug\net6.0\W47Teknologi.deps.json
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\bin\Debug\net6.0\W47Teknologi.runtimeconfig.json
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\bin\Debug\net6.0\W47Teknologi.dll
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\bin\Debug\net6.0\W47Teknologi.pdb
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\obj\Debug\net6.0\W47Teknologi.csproj.AssemblyReference.cache
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\obj\Debug\net6.0\W47Teknologi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\obj\Debug\net6.0\W47Teknologi.AssemblyInfoInputs.cache
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\obj\Debug\net6.0\W47Teknologi.AssemblyInfo.cs
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\obj\Debug\net6.0\W47Teknologi.csproj.CoreCompileInputs.cache
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\obj\Debug\net6.0\W47Teknologi.dll
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\obj\Debug\net6.0\refint\W47Teknologi.dll
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\obj\Debug\net6.0\W47Teknologi.pdb
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\obj\Debug\net6.0\W47Teknologi.genruntimeconfig.cache
+C:\Users\henni\Documents\UCL\3semester\Teknologi\W47Teknologi\obj\Debug\net6.0\ref\W47Teknologi.dll
